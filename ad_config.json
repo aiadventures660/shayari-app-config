@@ -3,6 +3,8 @@
   "banner_ad_unit": "ca-app-pub-3940256099942544/6300978111",
   "interstitial_ad_unit": "ca-app-pub-3940256099942544/1033173712",
   "ad_click_count": 3,
+  "is_custom_tab": 2,
+  "ads_link": "https://www.google.com",
   "app_version": "1.0",
   "update_message": "",
   "force_update": false,
